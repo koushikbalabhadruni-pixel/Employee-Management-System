@@ -63,5 +63,19 @@ Relationships are maintained through primary and foreign keys for data integrity
   
 	•	💻 Environment — SQL IDE / Jupyter Notebook
 
+
+🚀 Challenges and Learnings
+	
+	•	🔗 Established entity relationships and resolved foreign key issues
+	
+	•	⚡ Designed optimized queries using `JOIN`, `GROUP BY`, and `HAVING`
+	
+	•	🧠 Learned performance tuning with indexes and constraints
+	
+	•	💼 Applied SQL for real-time HR analytics and reporting
+
+
+
+
   
   
